@@ -13,7 +13,7 @@ I champion a unique methodology leveraging generative AI (LLM) and ML tools for 
 * **Prioritization & Roadmapping** 🛣️
 * **Cross-functional Team Leadership** 🤝
 * 📍 Based in **Munich, Germany** 🇩🇪 | Let's connect to turn complex ideas into impactful outcomes!
-* [![Portfolio](https://rohitrm.notion.site/Hey-there-I-am-Rohit-Mukherjee-29d2fdefefa0809a8bdffe7353b01e1f?source=copy_link)
+* [![Visit My Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://rohitrm.notion.site/Hey-there-I-am-Rohit-Mukherjee-29d2fdefefa0809a8bdffe7353b01e1f?source=copy_link)
 
 
 ---
