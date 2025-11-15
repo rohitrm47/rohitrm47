@@ -14,8 +14,8 @@ I champion a unique methodology leveraging generative AI (LLM) and ML tools for 
 * **Cross-functional Team Leadership** 🤝
 
 📍 Based in **Munich, Germany** 🇩🇪 | Let's connect to turn complex ideas into impactful outcomes! 
-⭐ **View My Portfolio and Projects:** 🔗
-https://rohitrm.notion.site/Hey-there-I-am-Rohit-Mukherjee-29d2fdefefa0809a8bdffe7353b01e1f?source=copy_link
+⭐ *View My Portfolio and Projects:* 🔗
+[![Portfolio](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/rohit-mukherjee-rm)
 ---
 
 ## 📫 Connect with me
