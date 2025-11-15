@@ -1,6 +1,3 @@
-
-# 👋 Hi, I'm Rohit Mukherjee
-
 ## 👋 Hi, I'm Rohit Mukherjee | Business Analyst | Product Manager
 
 
